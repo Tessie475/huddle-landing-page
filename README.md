@@ -18,7 +18,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://tessie475.github.io/huddle-landing-page/)
 
 
 ### Built with
